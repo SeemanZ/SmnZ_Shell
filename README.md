@@ -12,7 +12,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 ### Usage:
 ```
 git clone https://github.com/thelinuxchoice/shellphish
-cd shellphish
+cd SmnZ_Shell.sh
 bash SmnZ_Shell.sh
 ```
 
